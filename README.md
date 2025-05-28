@@ -59,7 +59,7 @@ An advanced chatbot that uses a vector database to retrieve relevant documents o
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/DARSHAN9029/Chatbots.git
 ```
 ---
 
